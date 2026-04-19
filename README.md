@@ -1,3 +1,7 @@
-# project-zenith-2151
+# PromptCraft - Минималистичный AI-лендинг
 
-Initial repository setup for pr-poehali-dev/project-zenith-2151
+![Preview](preview.png)
+
+Современный лендинг для AI-продукта с горизонтальной прокруткой и анимированным liquid metal фоном. Включает секции: герой с CTA, преимущества, тарифы, о компании и контакты. Темная стеклянная эстетика с плавными переходами между экранами.
+
+`"tags": ["landing", "dark", "glass", "ai", "pricing", "animations"]`
